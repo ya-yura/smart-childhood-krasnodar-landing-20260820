@@ -47,4 +47,6 @@ npm test
 
 Локальная папка проекта: `O:\Dev\Лендосики\smart-childhood-krasnodar-landing-20260820`.
 
-Демо и URL репозитория будут добавлены после публикации.
+Публичное демо: https://ya-yura.github.io/smart-childhood-krasnodar-landing-20260820/
+
+Репозиторий: https://github.com/ya-yura/smart-childhood-krasnodar-landing-20260820
